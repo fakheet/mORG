@@ -1,5 +1,5 @@
 # mORG
-A (very) simple organizer written with ktor library
+A simple organizer REST server with a client, fully written with ktor library
 
 ![Readme 1](https://github.com/fakheet/mORG/blob/master/readme1.png)
 
